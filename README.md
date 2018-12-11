@@ -27,3 +27,5 @@ Your HTML source should look similar to the following code:
 ```
 
 Demos, API, and more at: http://www.gscottolson.com/blackbirdjs/
+
+Blackbird Logging Utility http://demo.jb51.net/js/Blackbird/index.html

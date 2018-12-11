@@ -1,0 +1,183 @@
+* {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	FONT: 100%/1.5 Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif; COLOR: #333
+}
+DL.keyboard DT {
+	FONT: 100%/1.5 Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif; COLOR: #333
+}
+H1 {
+	FONT-FAMILY: "Futura Medium", "Century Gothic", AppleGothic, sans-serif
+}
+H2 {
+	FONT-FAMILY: "Futura Medium", "Century Gothic", AppleGothic, sans-serif
+}
+H3 {
+	FONT-FAMILY: "Futura Medium", "Century Gothic", AppleGothic, sans-serif
+}
+H4 {
+	FONT-FAMILY: "Futura Medium", "Century Gothic", AppleGothic, sans-serif
+}
+H5 {
+	FONT-FAMILY: "Futura Medium", "Century Gothic", AppleGothic, sans-serif
+}
+H6 {
+	FONT-FAMILY: "Futura Medium", "Century Gothic", AppleGothic, sans-serif
+}
+DT {
+	FONT-FAMILY: "Futura Medium", "Century Gothic", AppleGothic, sans-serif
+}
+#nav UL {
+	FONT-FAMILY: "Futura Medium", "Century Gothic", AppleGothic, sans-serif
+}
+H1 {
+	MARGIN-TOP: 10px; BACKGROUND: url(img/say_hello_to.png) no-repeat left top; WIDTH: 310px; HEIGHT: 146px
+}
+H1 SPAN {
+	DISPLAY: none
+}
+H2 {
+	DISPLAY: none
+}
+H4 {
+	FONT-WEIGHT: normal; FONT-SIZE: 18px; MARGIN: 24px 0px 16px -16px
+}
+A:link {
+	COLOR: #666
+}
+A:active {
+	COLOR: #666
+}
+A:visited {
+	COLOR: #666
+}
+P IMG {
+	BORDER-RIGHT: #666 1px solid; BORDER-TOP: #666 1px solid; VERTICAL-ALIGN: text-top; BORDER-LEFT: #666 1px solid; BORDER-BOTTOM: #666 1px solid
+}
+LI IMG {
+	BORDER-RIGHT: #666 1px solid; BORDER-TOP: #666 1px solid; VERTICAL-ALIGN: text-top; BORDER-LEFT: #666 1px solid; BORDER-BOTTOM: #666 1px solid
+}
+IMG.opaque {
+	BACKGROUND-COLOR: #000
+}
+P {
+	MARGIN: 12px 0px
+}
+DIV.blurb {
+	FONT-SIZE: 13px; MARGIN: 16px 0px 40px; WIDTH: 700px
+}
+PRE {
+	FONT-SIZE: 13px; COLOR: #000; FONT-FAMILY: Consolas, "Lucida Console", Monaco, monospace
+}
+CODE {
+	FONT-SIZE: 13px; COLOR: #000; FONT-FAMILY: Consolas, "Lucida Console", Monaco, monospace
+}
+PRE {
+	PADDING-RIGHT: 24px; PADDING-LEFT: 24px; PADDING-BOTTOM: 16px; PADDING-TOP: 16px; BACKGROUND-COLOR: #eee
+}
+PRE.exec {
+	BORDER-RIGHT: #181818 2px solid; BORDER-TOP: #181818 2px solid; PADDING-LEFT: 40px; BORDER-LEFT: #181818 2px solid; COLOR: #bbb; LINE-HEIGHT: 1; BORDER-BOTTOM: #181818 2px solid; BACKGROUND-COLOR: #333
+}
+DL {
+	MARGIN-LEFT: 330px; WIDTH: 700px; PADDING-TOP: 32px
+}
+DT {
+	FONT-WEIGHT: bold; FONT-SIZE: 22px
+}
+DD {
+	FONT-SIZE: 13px; MARGIN: 32px 0px 32px 32px
+}
+DL.api {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 13px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: auto; LINE-HEIGHT: 1.5em; PADDING-TOP: 0px; BORDER-BOTTOM: #ddd 1px solid
+}
+DL.api DT {
+	PADDING-RIGHT: 0px; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FLOAT: left; PADDING-BOTTOM: 1em; MARGIN: 0px 0px -4em; WIDTH: 100%; PADDING-TOP: 1em; _margin-bottom: -2em
+}
+DL.api DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 200px; PADDING-BOTTOM: 1em; MARGIN: 0px; PADDING-TOP: 1em
+}
+DL.api DD.params {
+	FONT-STYLE: italic
+}
+DL.keyboard {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: auto; LINE-HEIGHT: 1.5em; PADDING-TOP: 0px
+}
+DL.keyboard DT {
+	FONT-SIZE: 13px; MARGIN-BOTTOM: -90px; WIDTH: 100px; PADDING-TOP: 20px; HEIGHT: 70px; TEXT-ALIGN: right
+}
+DL.keyboard DD {
+	BACKGROUND: url(img/keyboard_shortcuts.png) no-repeat right top; MARGIN: 0px 0px 0px 120px; HEIGHT: 70px
+}
+DL.keyboard DD SPAN {
+	DISPLAY: none
+}
+DD DIV.exec {
+	DISPLAY: block; BACKGROUND: url(img/exec_button.png) no-repeat 0px 100%; LEFT: -25px; WIDTH: 50px; POSITION: absolute; TOP: 10px; HEIGHT: 50px; _left: -65px; _background-image: url(img/exec_button.gif)
+}
+.clickable PRE.exec {
+	COLOR: #fff
+}
+.clickable DIV.exec {
+	BACKGROUND-POSITION: 0px 0px
+}
+P.click-to-exec {
+	MARGIN: -5px; PADDING-TOP: 20px
+}
+DIV.cursor {
+	CURSOR: pointer
+}
+LI SPAN {
+	CLEAR: left; FLOAT: left; WIDTH: 150px
+}
+#header {
+	PADDING-LEFT: 330px
+}
+#nav {
+	BORDER-TOP: #666 1px solid; PADDING-LEFT: 330px; BORDER-BOTTOM: #999 1px solid; BACKGROUND-COLOR: #333
+}
+#nav UL {
+	PADDING-LEFT: 1px; FONT-WEIGHT: bold; MARGIN-LEFT: -20px; OVERFLOW: hidden; WIDTH: 710px; LIST-STYLE-TYPE: none
+}
+#nav UL LI {
+	BORDER-RIGHT: #333 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN-LEFT: -1px; BORDER-LEFT: #333 1px solid; PADDING-TOP: 0px
+}
+#nav UL LI A:link {
+	PADDING-RIGHT: 20px; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; COLOR: #ddd; LINE-HEIGHT: 3; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#nav UL LI A:hover {
+	PADDING-RIGHT: 20px; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; COLOR: #ddd; LINE-HEIGHT: 3; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#nav UL LI A:active {
+	PADDING-RIGHT: 20px; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; COLOR: #ddd; LINE-HEIGHT: 3; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#nav UL LI A:visited {
+	PADDING-RIGHT: 20px; DISPLAY: block; PADDING-LEFT: 20px; PADDING-BOTTOM: 0px; COLOR: #ddd; LINE-HEIGHT: 3; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#content {
+	BACKGROUND: url(img/gray_gradient.gif) repeat-x 0px -3px
+}
+#content UL {
+	LIST-STYLE-POSITION: inside; MARGIN: 8px 0px 8px 8px
+}
+#content OL {
+	LIST-STYLE-POSITION: inside; MARGIN: 8px 0px 8px 8px
+}
+H4 {
+	text-shadow: #AAA 0 1px 0
+}
+DT {
+	text-shadow: #AAA 0 1px 0
+}
+#nav UL {
+	text-shadow: #333 0 0 1px
+}
+#nav UL LI A:hover {
+	text-shadow: #CCC 0 0 1px
+}
+DIV.blurb {
+	text-shadow: #CCC 0 0 1px
+}
+DL.api DT {
+	text-shadow: #CCC 0 0 1px
+}
